@@ -28,6 +28,12 @@ h1, h2,h3,h4,h5,h6{
 	font-style: normal;
 }
 
+.notes{
+	font-family: neuzeit-grotesk, Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
 
 @media only screen and (min-width : 768px) {
 .header{
